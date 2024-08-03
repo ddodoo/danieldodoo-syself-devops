@@ -38,7 +38,7 @@ GitHub Actions is a continuous integration and continuous delivery (CI/CD) platf
 
 - GitOps framework to manage helm chart repository and automate deployment to Kubernetes cluster 
 
-- A CI/CD Pipeline with Docker to build application code and push container image docker hub registry
+- A CI/CD Pipeline with Docker to build application code and push container image to docker hub registry
 
 
 **Tools: Terraform, Kubernetes, Helm, Docker, Github Actions, ArgoCD**
