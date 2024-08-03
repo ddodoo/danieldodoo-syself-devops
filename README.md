@@ -5,7 +5,7 @@ I created a HorizontalPodAutoscaler in helm charts to automatically scale worklo
 I recommend a Serverless Posgress Database instance to accomodate unpredictabled production workload and to scale with zero downtime in response to increased resource demand
 
 
-## 3 Tier Layer Architecture Design:
+## System Design Architecture:
 The application is going to be hosted on a three-tier layer architecture and multi-region setup
 
 Tier 1:  Client App
