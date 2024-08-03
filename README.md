@@ -1,6 +1,6 @@
 # danieldodoo-syself-devops
 
-I created a HorizontalPodAutoscaler in helm charts to scale per the average CPU and Memory utilization of target pods to automatically scale workload to match demand.
+I created a HorizontalPodAutoscaler in helm charts to automatically scale workload per the average CPU and Memory utilization of target pods to match demand  
 
 I recommend a Serverless Posgress Database instance to accomodate unpredictabled production workload and to scale with zero downtime in response to increased resource demand
 
